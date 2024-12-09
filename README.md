@@ -11,7 +11,7 @@ Below is a breakdown of the tools that will be available in the OrionSecToolkit.
 
 ## Table of Contents
 
-1. [Reconnaissance Tools](#reconnaissance-tools)
+1. [Reconnaissance Tools](## 1. Reconnaissance Tools)
 2. [Exploitation Tools](#exploitation-tools)
 3. [Post-Exploitation Tools](#post-exploitation-tools)
 4. [Web Application Tools](#web-application-tools)
