@@ -5,6 +5,8 @@ This suite of tools is ideal for penetration testers, ethical hackers, and cyber
 
 Below is a breakdown of the tools that will be available in the OrionSecToolkit. All ideas and thoughts on how these tools can be improved are welcome!
 
+> Please use all tools legally in compliance with your local government/organizational regulations and policies.
+
 ---
 
 ## Table of Contents
